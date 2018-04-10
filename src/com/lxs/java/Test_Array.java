@@ -1,9 +1,9 @@
 package com.lxs.java;
 
-public class ArrayTest {
+public class Test_Array {
     public static void main(String[] args) {
 
     }
 
-    
+
 }
